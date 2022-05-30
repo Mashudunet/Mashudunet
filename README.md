@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mashudu nethavhai
 - 👀 I’m interested in learning backend programming languages such as python and Java
 - 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate on frontend programming, inclduing UX design
+- 💞️ I’m looking to collaborate on frontend programming, including UI/UX design
 - 📫 How to reach me ...
 
 <!---
